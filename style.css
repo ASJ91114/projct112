@@ -1,0 +1,32 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(135deg, #ff00e0, #ffeb3b, #14ffe9);
+    text-align: center;
+}
+
+.headingImage {
+    margin-top: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+.text_images_and_result {
+    padding: 10px;
+    margin-top: 15px;
+    box-shadow: 7px 7px 18px black;
+    width: 330px;
+}
+
+#testImages{
+    width:600;
+    height:300px
+}
+
+.result{
+    background: transparent;
+    box-shadow: 5px 5px 15px black;
+    font-size: 18px;
+    border: 7px ridge grey;
+    padding: 5px;
+    border-radius: 10px;
+}
